@@ -13,7 +13,7 @@ Full-stack developer skilled in React, Next.js, Django, and REST APIs. Currently
 - Others: Docker, Git, CI/CD basics  
 
 ## 📌 Projects
-- 🏏 **Cricscore** – Live cricket score & comments (Django + React)  
+- 🏏 **Cricscore** – Live cricket score & comments (Django + React + NLP)  
 - 🏛️ **Court Management** – Advocate & fund collection system  
 - 🏠 **Jashore Circuit House** – Frontend & backend web application for hotel management  
 - 🎓 **Education Management System (EMS)** – Platform for managing student records, fees, and reports  
