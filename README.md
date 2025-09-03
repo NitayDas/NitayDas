@@ -1,7 +1,6 @@
 ## Hi there 👋
 # Hi, I'm Nitay 👋
-Full-stack developer skilled in React, Next.js, Django, and REST APIs.  
-Aspiring Machine Learning engineer passionate about scalable solutions.  
+Full-stack developer skilled in React, Next.js, Django, and REST APIs. Currently learning machine learning and eager to collaborate on impactful projects.
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nitay-das-9b2132221)
